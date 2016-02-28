@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wij zorgen dat ICT werkt. Altijd. Overal.]]></title>
+        <description><![CDATA[Wij zorgen dat ICT werkt. Altijd. Overal.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Feb 2016 18:35:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bedrijven en particulieren die kiezen voor De Systeembeheerder gaan een jarenlange relatie met ons aan. Niet omdat het moet, maar omdat het goed voelt. U kunt dan ook gerust zeggen dat we ICT de baas zijn en ernaar streven onze klanten volledig te ontzorgen, zodat u kunt gaan doen waar u goed in bent.</p>]]></description>
+            <link>undefined0c1bf193-7190-4294-a06d-daf9384ae40c/index.html</link>
+            <guid isPermaLink="false">0c1bf193-7190-4294-a06d-daf9384ae40c</guid>
+            <pubDate>Sun, 28 Feb 2016 18:35:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
