@@ -1,4 +1,20 @@
-analytics: {}
+name: De Systeembeheerder
+favicon: null
+layout_spectrum: 0.9829229116979833
+typography_spectrum: 0.34774751160065787
+title: Wij zorgen dat ICT werkt. Altijd. Overal.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -8,11 +24,9 @@ color:
     - '#160600'
   brandStrength: 0.8678226701844572
   lightness: 0.9055659553090558
-  rhythmicContrast: 0.9759111950916948
   saturation: 0.5114515861027171
-cta: {}
-layout_spectrum: 0.9829229116979833
-name: De Systeembeheerder
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.34774751160065787
+  rhythmicContrast: 0.9759111950916948
+purpose:
+  - name: null
+    item: null
+    url: null
