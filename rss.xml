@@ -2,15 +2,15 @@
     <channel>
         <title><![CDATA[Wij zorgen dat ICT werkt. Altijd. Overal.]]></title>
         <description><![CDATA[Wij zorgen dat ICT werkt. Altijd. Overal.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/de-systeembeheerder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 11:21:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 31 May 2016 11:22:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/de-systeembeheerder/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefineda860d7a7-fa5d-40dc-90ae-134b240994b4/index.html</link>
+            <link>https://thegrid.ai/de-systeembeheerder/a860d7a7-fa5d-40dc-90ae-134b240994b4/index.html</link>
             <guid isPermaLink="false">a860d7a7-fa5d-40dc-90ae-134b240994b4</guid>
-            <pubDate>Tue, 31 May 2016 11:21:55 GMT</pubDate>
+            <pubDate>Tue, 31 May 2016 11:22:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
