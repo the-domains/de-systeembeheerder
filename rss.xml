@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wij zorgen dat ICT werkt. Altijd. Overal.]]></title>
+        <description><![CDATA[Wij zorgen dat ICT werkt. Altijd. Overal.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 31 May 2016 11:21:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefineda860d7a7-fa5d-40dc-90ae-134b240994b4/index.html</link>
+            <guid isPermaLink="false">a860d7a7-fa5d-40dc-90ae-134b240994b4</guid>
+            <pubDate>Tue, 31 May 2016 11:21:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
